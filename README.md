@@ -67,6 +67,7 @@ In **sal.js** you can easily change animation's options, by adding a proper `dat
 - `data-sal-duration` - changes duration of the animation (from 200 to 2000 ms)
 - `data-sal-delay` - adds delay to the animation (from 5 to 1000 ms)
 - `data-sal-easing` - sets easing for the animation (see [easings.net](https://easings.net/) for reference)
+- `data-sal-repeat` - allows to replay animations
 
 For example:
 ```html
